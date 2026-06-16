@@ -1,0 +1,6 @@
+{
+  "name": "Voice AI Assistant",
+  "description": "A real-time, voice-to-voice AI assistant with a smart, witty, and confident sassy personality.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
